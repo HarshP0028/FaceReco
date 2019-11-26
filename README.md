@@ -61,3 +61,6 @@ For more than 2 class classification label is encoded with one hot encoding.
 
 ![alt text](https://github.com/prashantmokani/age_and_gender_classifier/blob/master/conf_age.PNG)
 
+### Created by
+    Harsh Patel
+    Prashant Mokani
