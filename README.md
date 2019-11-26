@@ -1,4 +1,5 @@
-# Age Group and Gender estimation from face image using CNN.
+# FaceReco
+Age Group and Gender estimation from face image using CNN.
 
 Two Custom CNN layers are trained for age group and gender estimation.
 
